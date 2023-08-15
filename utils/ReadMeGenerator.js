@@ -68,7 +68,7 @@
     
     function generateReadMe(answers){ 
         return`
-    # Project: ${answers.title}
+    Project: ${answers.title}
      ![License Badge](${renderLicenseBadge(answers.license)})
     
     ## Description
@@ -79,7 +79,7 @@
     ## Table of Contents
     *** 
     - [Installation](#installation)
-    - [Project Usage](#usage)
+    - [Usage](#usage)
     - [Technologies](#Technologies)
     - [Examples](#Examples)
     - [Contributing](#contributing)
@@ -101,7 +101,7 @@
     ## Usage 
     ***
     To execute the script, open a Git terminal on the main project folder (cloned folder) Run the following command: node index.js.
-
+    walkthrough video
     Screenshots
 
     Video demo link
@@ -128,8 +128,8 @@
     ## Contats
     ***
     
-    For additional questions, please contact ${answers.email}.
-    or my Github page:(https://github.com/${answers.username})
+    For additional questions, please contact by email: bchamidou@gmail.com.
+    or my Github page:(https://github.com/bchamidou@gmail.com)
     
     ## License
     ***
