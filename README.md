@@ -39,8 +39,12 @@ Screenshots
 ![](assets/sharpes-test.png)
 
 walkthrough video link
+
+!(<assets/images/Logo Maker Walktrough video.gif>)
+
 https://streamable.com/47j24j
-![](<assets/images/Logo Maker Walktrough video.gif>)
+
+
 
 ## Technologies
 ***
@@ -59,9 +63,9 @@ The Contributor Covenant Code of Conduct can be found in the following address:
 
 ## Tests Passing
 ***
-![Alt text](examples/BCH_Logo-example.svg)
+![Alt text](examples/ABC_Logo-example.svg)
 
-![Alt text](examples/CHB_Logo-example.svg)
+![Alt text](examples/BCH_Logo-example.svg)
 
 ![Alt text](examples/CHB_Logo-example.svg)
 
