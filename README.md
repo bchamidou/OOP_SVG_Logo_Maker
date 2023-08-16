@@ -1,11 +1,11 @@
 
-Project: Logo Maker
+Project: LOGO MAKER
 ![License Badge](https://img.shields.io/badge/License-MIT%20License-blue)
 
 ## Description
 ***
 
-This is an SVG Logo Maker built as a way to create simple logos for clients and projects. It utilizes inquirer to prompt the user within the command line for Logo text color, shape (triangle, square, or circle) and shape color. 
+This is an SVG Logo Maker built as a way to create simple logos for their clients and projects It utilizes inquirer to prompt the user within the command line for Logo text color, shape (triangle, square, or circle) and shape color using install Node JS module,  Jest  for running the unit tests and Inquirer. 
 
 ## Table of Contents
 *** 
@@ -14,7 +14,7 @@ This is an SVG Logo Maker built as a way to create simple logos for clients and 
 - [Technologies](#Technologies)
 - [Examples](#Examples)
 - [Contributing](#contributing)
-- [Tests](#Tests Passing)
+- [Tests](#Tests)
 - [Contact](#contact)
 - [License](#license)
 
