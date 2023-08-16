@@ -33,6 +33,7 @@ The installation can be completed by following these instructions:
 To execute the script, open a Git terminal on the main project folder (cloned folder) Run the following command: node index.js.
 
 Project Logo Made
+
 ![](logo.svg)
 
 Screenshots
@@ -40,7 +41,7 @@ Screenshots
 
 walkthrough video link
 
-!(<assets/images/Logo Maker Walktrough video.gif>)
+![](<assets/images/Logo Maker Walktrough video.gif>)
 
 https://streamable.com/47j24j
 
