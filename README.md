@@ -35,7 +35,7 @@ To execute the script, open a Git terminal on the main project folder (cloned fo
 
 Project Logo Made
 
-!   [](logo.svg)
+![](logo.svg)
 
 Screenshots
 
@@ -65,11 +65,11 @@ The Contributor Covenant Code of Conduct can be found in the following address:
 
 ## Tests Passing
 ***
-    ![Alt text](examples/ABC_Logo-example.svg)
+![Alt text](examples/ABC_Logo-example.svg)
 
-    ![Alt text](examples/BCH_Logo-example.svg)
+![Alt text](examples/BCH_Logo-example.svg)
 
-    ![Alt text](examples/CHB_Logo-example.svg)
+![Alt text](examples/CHB_Logo-example.svg)
 
 ## Contats
 ***
