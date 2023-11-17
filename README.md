@@ -35,17 +35,17 @@ To execute the script, open a Git terminal on the main project folder (cloned fo
 
 Project Logo Made
 
-![](logo.svg)
+!   [](logo.svg)
 
 Screenshots
-![](assets/sharpes-test.png)
+
+    ![](assets/sharpes-test.png)
 
 walkthrough video link
 
-![](<assets/images/Logo Maker Walktrough video.gif>)
+    ![](<assets/images/Logo Maker Walktrough video.gif>)
 
-https://streamable.com/47j24j
-
+     https://drive.google.com/file/d/1STNKvs_9JhrQujqxD3fIjE2KvK0B8nYA/view
 
 
 ## Technologies
@@ -65,11 +65,11 @@ The Contributor Covenant Code of Conduct can be found in the following address:
 
 ## Tests Passing
 ***
-![Alt text](examples/ABC_Logo-example.svg)
+    ![Alt text](examples/ABC_Logo-example.svg)
 
-![Alt text](examples/BCH_Logo-example.svg)
+    ![Alt text](examples/BCH_Logo-example.svg)
 
-![Alt text](examples/CHB_Logo-example.svg)
+    ![Alt text](examples/CHB_Logo-example.svg)
 
 ## Contats
 ***
