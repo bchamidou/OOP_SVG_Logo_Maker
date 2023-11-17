@@ -71,7 +71,7 @@ The Contributor Covenant Code of Conduct can be found in the following address:
 
 ![Alt text](examples/CHB_Logo-example.svg)
 
-## Contats
+## Contacts
 ***
 
 For additional questions, please contact by email: bchamidou@gmail.com.
