@@ -45,7 +45,7 @@ walkthrough video link
 
     ![](<assets/images/Logo Maker Walktrough video.gif>)
 
-     https://drive.google.com/file/d/1STNKvs_9JhrQujqxD3fIjE2KvK0B8nYA/view
+    https://drive.google.com/file/d/17zRfgNgN_i8cK-Np0GZW9mQLXXJ8MlR_/view?usp=drive_link
 
 
 ## Technologies
